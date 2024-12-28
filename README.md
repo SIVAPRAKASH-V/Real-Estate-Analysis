@@ -118,8 +118,10 @@ This project leverages the **Real Estate Sales 2001-2020 State of Connecticut** 
 
 ---
 
-For detailed instructions and troubleshooting, please comment or contact the author.
+<p>For detailed instructions and troubleshooting, please comment or contact the author.</p>
+<p>Give Credits to the author</p>
+<p>If you like this project give stars.</p>
 
 # Thank you
-If you like this project give stars.
 
+# **Author**: _Sivaprakash V_
